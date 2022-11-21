@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.nav{
+    background-color:  #1e293b;
+    color: white;
+}
+.l{
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+
+.k{
+       display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.u{
+    list-style-type: none;
+    display: flex;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.wite-text{
+color: white;
+}
+.dark-text{
+color: black;
+}
+
+.button1{
+    border: none;
+    background-color: transparent;
+}
